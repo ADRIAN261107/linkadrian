@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", function () {
   let currentLine = 0;
 
   const timing = [
-    4000, // Waktu untuk "Hai sayangg" - 4 detik
-    4000, // Waktu untuk "Lagi apaa kamuuu" - 4 detik
-    6000  // Waktu untuk "Apapun yang kamu lakukan sekarang..." - 6 detik
+    2000, // Waktu untuk "Hai sayangg" - 4 detik
+    2000, // Waktu untuk "Lagi apaa kamuuu" - 4 detik
+    2000  // Waktu untuk "Apapun yang kamu lakukan sekarang..." - 6 detik
   ];
 
   function showNextLine() {
